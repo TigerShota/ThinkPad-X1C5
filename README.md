@@ -35,3 +35,6 @@
 #### BIOS说明
 
 1.  请依据Hackintosh教程更改BIOS设置即可。
+
+#### 早期版本
+MacOS_Ventura_13.x版本：[Thinkpad_x1c5_i5-7200u_Ventura](https://www.lanzoux.com/iAxoO2jbqbqb)
