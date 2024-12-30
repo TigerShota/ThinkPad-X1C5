@@ -6,7 +6,7 @@
 
 #### 已知适用型号
 
-1. ThinkPad X1 Carbon(5th Gen)
+ThinkPad X1 Carbon(5th Gen)
 
 ![睿频、蓝牙、Wi-Fi正常](%E6%88%AA%E5%B1%8F2024-12-30%2010.53.32.png)
 
@@ -24,17 +24,19 @@
 
 #### 已知问题
 
-不工作：个人热点、USB共享网络、自动调节亮度、睡眠和休眠、指纹
+不工作：个人热点、USB共享网络、自动调节亮度、睡眠和休眠、指纹。
+睡眠后唤醒小红点和触控板无法使用。
+亮度调整至最小值，显示器将黑屏。
 
 #### 注意事项
 
-1.  安装前请将Intel网卡驱动取消，并按照视频教程操作，否则无法进入系统或Intel网卡无法驱动。
-    [B站教程视频](https://www.bilibili.com/video/BV1r5WyeyE3k) [OCLP-Mod](https://github.com/laobamac/OCLP-Mod/releases/tag/2.4.8)
-2.  请不要将亮度调至最小值，否则显示器将黑屏。
+安装前请将Intel网卡驱动取消，并按照视频教程操作，否则无法进入系统或Intel网卡无法驱动。
+(1)[B站教程视频](https://www.bilibili.com/video/BV1r5WyeyE3k)
+(2)[OCLP-Mod Intel网卡补丁](https://github.com/laobamac/OCLP-Mod/releases/tag/2.4.8)
 
 #### BIOS说明
 
-1.  请依据Hackintosh教程更改BIOS设置即可。
+请依据Hackintosh教程更改BIOS设置即可。
 
 #### 早期版本
 MacOS_Ventura_13.x版本：[Thinkpad_x1c5_i5-7200u_Ventura](https://www.lanzoux.com/iAxoO2jbqbqb)
