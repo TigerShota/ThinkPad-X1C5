@@ -25,13 +25,17 @@ ThinkPad X1 Carbon(5th Gen)
 #### 已知问题
 
 不工作：个人热点、USB共享网络、自动调节亮度、睡眠和休眠、指纹。
+
 睡眠后唤醒小红点和触控板无法使用。
+
 亮度调整至最小值，显示器将黑屏。
 
 #### 注意事项
 
 安装前请将Intel网卡驱动取消，并按照视频教程操作，否则无法进入系统或Intel网卡无法驱动。
+
 (1)[B站教程视频](https://www.bilibili.com/video/BV1r5WyeyE3k)
+
 (2)[OCLP-Mod Intel网卡补丁](https://github.com/laobamac/OCLP-Mod/releases/tag/2.4.8)
 
 #### BIOS说明
